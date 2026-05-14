@@ -1,0 +1,23 @@
+src/content/docs/billing/payment-methods/instant-bank-payments-link.mdx
+  37b574d5470499f7 75,79,83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "ba8d55493e8b728309d7458485dc32a6015dcaf7",
+  "prompts": {
+    "37b574d5470499f7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_226d197a7ffe9ie4RB1q8vtLYu",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "TatianaPikovskaia",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 3,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}

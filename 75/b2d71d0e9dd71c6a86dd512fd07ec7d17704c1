@@ -1,0 +1,23 @@
+src/content/changelog/fundamentals/2026-04-29-instant-bank-payments-via-link.mdx
+  37b574d5470499f7 13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "75b2d71d0e9dd71c6a86dd512fd07ec7d17704c1",
+  "prompts": {
+    "37b574d5470499f7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_226d197a7ffe9ie4RB1q8vtLYu",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "TatianaPikovskaia",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
